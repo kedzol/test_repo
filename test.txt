@@ -1,0 +1,15 @@
+ARS-OM --> DSS
+
+ICU customer masterdata
+innen kell importálni a customert, a meglévőket mindíg validálni kell
+
+camel exception handling
+
+CTSA/USM
+ICU
+
+tom-mapper: bep --> smbb format mapping
+
+order			= order
+  -- position		=   -- SDE
+	-- item		=	-- item
